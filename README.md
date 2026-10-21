@@ -17,8 +17,7 @@ Topics include:
 - Gradient Descent and Backpropagation
 - Neural Network Training and Optimization
 - Representation Learning and Transfer Learning
-- Restricted Boltzmann Machines (RBMs)
-- Autoencoders and Variational Autoencoders (VAEs)
+- Autoencoders (AEs)
 - Deep Learning Model Evaluation
 
 ## Usage
